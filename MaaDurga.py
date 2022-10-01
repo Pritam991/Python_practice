@@ -1,6 +1,6 @@
 #drawing Maa Durga Using Python Code
 import turtle as t
-from turtle import *
+
 t.bgcolor("lightblue")
 def pos(x,y):
     t.penup()
